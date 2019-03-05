@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Orbitron);
+
+body{
+  background-image: url('https://d1490khl9dq1ow.cloudfront.net/Collections/vector-waveform-equalizer_Mky2L1Uu_L.jpg');
+  background-repeat: no-repeat;
+}
+
+
+#player {
+  width: 400px;
+  margin: auto;
+  text-align: center;
+}
+
+#lcd {
+  font-family: Orbitron;
+  background: white;
+  height: 42px;
+  margin:4px 0;
+  color: green;
+}
+
+.boton {
+  width: 100px;
+  margin: auto;
+  font-size: 1vw
+}
